@@ -20,7 +20,7 @@ Sample Output 0
 14
 */
 
-'use strict';...
+'use strict';
 function sides(literals, ...expressions) 
 {
     var area=expressions[0];
